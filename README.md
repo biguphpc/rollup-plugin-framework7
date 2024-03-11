@@ -1,6 +1,7 @@
-# Rollup Framework7 Component Loader
+# Rollup Framework7 Component Loader (forked for bug fix)
 
-> Rollup & Vite plugin to load Framework7 single file components
+## Why this fork:
+To workaround the issue described here (https://github.com/framework7io/framework7/issues/4244)
 
 ## What is Framework7 Component Loader?
 
